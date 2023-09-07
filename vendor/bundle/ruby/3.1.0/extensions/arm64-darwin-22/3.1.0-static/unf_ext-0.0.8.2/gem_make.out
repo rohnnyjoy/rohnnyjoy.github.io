@@ -1,0 +1,19 @@
+current directory: /Users/johnroy/Documents/Development/personal/rohnnyjoy.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/johnroy/.rubies/ruby-3.1.3/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/johnroy/Documents/Development/personal/rohnnyjoy.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230907-39088-4p9jfe sitelibdir\=./.gem.20230907-39088-4p9jfe clean
+
+current directory: /Users/johnroy/Documents/Development/personal/rohnnyjoy.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230907-39088-4p9jfe sitelibdir\=./.gem.20230907-39088-4p9jfe
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/johnroy/Documents/Development/personal/rohnnyjoy.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230907-39088-4p9jfe sitelibdir\=./.gem.20230907-39088-4p9jfe install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230907-39088-4p9jfe
+
+current directory: /Users/johnroy/Documents/Development/personal/rohnnyjoy.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230907-39088-4p9jfe sitelibdir\=./.gem.20230907-39088-4p9jfe clean

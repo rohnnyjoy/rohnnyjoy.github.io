@@ -1,0 +1,15 @@
+I"�<h2 id="background">Background</h2>
+<p>During the summer of 2021, I worked as a teaching assistant for <a href="http://cs.brown.edu/courses/cs1951l/">CSCI 1951L Blockchains and Cryptocurrencies</a>. As a TA, I took the lead role in developing the first assignment for the class, “Bruno Coin”. Bruno Coin is a barebones cryptocurrency based off of the original Bitcoin client. The client was written in GoLang using gRPC for networking between clients.</p>
+
+<h2 id="features">Features</h2>
+<ul>
+  <li><strong>Node discovery</strong>: discovery in Bruno Coin is done using seed nodes to start a graph, eventually expanding into a full graph where nodes may become connected to many nodes upon requesting a connection from a single node through neighbor propagation.</li>
+  <li><strong>Bootstrapping</strong>: nodes joining the network can bootstrap from other nodes to receive a full record of the chain.</li>
+  <li><strong>Transaction and block validation</strong>: validation of transactions and blocks is done using a simplified version of the Bitcoin verification specifications.</li>
+</ul>
+
+<p>Like all functional cryptocurrencies, Bruno Coin can handle forked chains and malicious nodes.</p>
+
+<h2 id="autograder">Autograder</h2>
+<p>I created an autograder to score students on their submissions using a combination of python and bash. I am happy to report that the average score for the assignment was above the “A” threshold!</p>
+:ET
