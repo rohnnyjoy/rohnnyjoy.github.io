@@ -1,10 +1,20 @@
 [
   {
+    "organization": "Google",
+    "positions": [
+      {
+        "title": "Software Engineer",
+        "dates": "July 2022 - Present"
+      }
+    ]
+  },
+  {
     "organization": "Snackpass",
     "positions": [
       {
         "title": "Software Engineering Intern",
-        "dates": "August 2021 - Present"
+        "dates": "August 2021 - March 2022",
+        "description": "Created salesforce integrations within the Snackpass internal sales dashboard to automate the process of onboarding new merchants. "
       }
     ]
   },
